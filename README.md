@@ -1,2 +1,2 @@
 # dimensionality-reduction
- Dimensionality Reduction and Feature Selection methods along with the unsupervised methods
+ Reduce dimension vs Feature selcetion (Filter & Wrapper) methods on SVM algorithm
